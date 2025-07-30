@@ -378,7 +378,7 @@ body {
 
 .offers {
 	position: relative;
-	@include mixins.heroImages('../img/maldives-3220702_640.jpg');
+	@include mixins.heroImages('../../dist/img/hero-secondary.jpg');
 	overflow: hidden;
 
 	.section-heading {
